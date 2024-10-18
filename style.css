@@ -1,0 +1,154 @@
+
+* {
+    background-color:  #f7b23b ;
+    margin: 100px;    
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    color:  #000000;
+}
+
+
+
+.container {
+
+    display: flex;
+    background-color: transparent;
+}
+
+/*
+div {
+
+    height: 100px;
+    background-color: #211e20 ;
+    margin: -10px;
+
+}
+*/
+
+.copytext {
+    text-align: center;
+    flex: auto;
+    position: relative;
+    top: 350px;    
+    background-color:  #dd4900 ;
+    height: 90px;
+    margin: -6px;
+    left: -10px;
+    
+}
+
+h3 {
+
+    position: relative;
+    top: 20px;
+    background-color: #dd4900 ;
+    color: aliceblue;
+}
+
+
+.header {
+    
+    display: flex;
+}
+
+
+.header {
+
+
+    background-color:   transparent   ;
+    height: 300px;
+    margin: -10px;
+    
+
+}
+
+.alltext {
+
+    display: flex;
+}
+
+
+.alltext {
+
+    position: relative;
+    top: 410px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    flex-direction: column;    
+    margin: -100px;
+    margin-left: -10px;
+    margin-right: -6px;
+}
+
+
+img {
+    height: 600px;
+    width: 1200px;
+    position: relative;
+    left: -100px;
+  }
+
+
+
+h1 {
+
+    text-align: center;
+}
+
+.middlebox {
+
+    height: 100px;
+    width: 1000px;
+    background-color:  #292929;
+    position: relative;
+    top: 100px;
+
+
+}
+
+
+.preparo {
+
+    color:  #000000;
+
+}
+
+html {
+
+    background-image: url(https://i.ibb.co/b5Z45Kr/cusi.jpg);
+    background-size: 2000px;
+    background-repeat: repeat-y;
+    background-position: -140px;
+    position: relative;
+    right: 4000px;
+
+
+}
+
+
+body {
+
+    background-color: transparent;
+
+}
+
+p {
+
+
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+
+}
+
+h1 {
+
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100px;
+    position: relative;
+    top: 50px;
+    color: #000000;
+}
